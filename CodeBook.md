@@ -85,4 +85,4 @@ fBodyBodyGyroJerkMag-std()
 fBodyBodyGyroJerkMag-meanFreq()
 subject
 activity_names
--------------------------
+
