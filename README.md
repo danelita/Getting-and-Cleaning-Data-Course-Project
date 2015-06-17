@@ -5,3 +5,4 @@ You should include a README.md in the repo with your scripts. This repo explains
 You should include a README.md in the repo describing how the script works and the code book describing the variables.
 
 I was able to follow the README in the directory that explained what the analysis files did. 
+------------------------------------------------------------------------------------
